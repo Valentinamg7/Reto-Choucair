@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choucair.runners.UtestRunners" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-VQGC1V5" time="0.0">
+  <properties/>
+  <system-out><![CDATA[18:04:02.208 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\serenity.properties 
+18:04:02.280 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\serenity.properties 
+18:04:02.281 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\serenity.properties 
+18:04:02.288 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=false
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://www.utest.com/
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+18:04:02.289 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+18:04:02.516 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\serenity.properties 
+18:04:02.559 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\serenity.properties 
+18:04:02.560 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\serenity.properties 
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.incognito=false
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=src/test/resources/drivers/chromedriver.exe
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.capabilities.acceptSslCerts=true
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.console.colors=true
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.base.url=https://www.utest.com/
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=Dojo Serenity / Cucumber
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.wait.for.timeout=6000
+18:04:02.562 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.use.unique.browser=true
+18:04:02.563 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=20000
+18:04:02.563 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.browser.maximized=true
+18:04:02.569 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[96m
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+-------------------------------------------------------------------------------------
+?[0m
+18:04:02.572 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@8f50af6
+18:04:02.573 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Deberia poder ver un mensaje de registro exitoso en la página de Utest.
+18:04:02.611 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.
+-------------------------------------------------------------------(deberia-poder-ver-un-mensaje-de-registro-exitoso-en-la-página-de-utest.;el-usuario-despues-de-diligenciar-todo-el-formulario-deberia-poder-ver-un-mensaje-de-registro-exitoso.)
+18:04:28.071 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+18:04:28.152 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+18:04:28.164 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@15bca7fe
+18:04:28.165 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.
+18:04:28.165 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@15bca7fe: Generating report for test outcome: Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.
+18:04:28.168 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso. to file C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\target\site\serenity\8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c.json (using temp file C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\target\site\serenity\8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c.jsonbee46513-e9a3-4fcc-81dc-37f59e8bdccc)
+18:04:28.201 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso. done
+18:04:28.202 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+18:04:28.202 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 38 ms
+18:04:28.202 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@41af95f7
+18:04:28.202 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.
+18:04:28.203 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@41af95f7: Generating report for test outcome: Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.
+18:04:28.203 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso. in 8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c
+18:04:28.317 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+18:04:28.324 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+18:04:28.356 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+18:04:28.357 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+18:04:28.451 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c_screenshots.html
+18:04:28.843 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c_screenshots.html in 392 ms
+18:04:28.845 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso. in 8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c.html in directory C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\target\site\serenity  
+18:04:28.846 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c.html
+18:04:28.887 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[]
+18:04:28.915 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 8d56bb05c7927a78ca053896818b0393e16d341bee4d6e3f4c22135845486c0c.html in 69 ms
+18:04:28.915 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Deberia poder ver un mensaje de registro exitoso en la página de Utest.:El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso. done
+18:04:28.915 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+18:04:28.915 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 713 ms
+18:04:29.086 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+18:04:29.086 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+
+1 Scenarios (?[32m1 passed?[0m)
+3 Steps (?[32m3 passed?[0m)
+0m25,638s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

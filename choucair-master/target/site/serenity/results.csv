@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Registro de un nuevo usuario en la pagina de Choucair","El usuario despues de registrarse deberia poder visualizar las diferentes vacantes en la pagina de Choucair","SUCCESS","2022-01-09T17:02:54.028-05:00[America/Bogota]","0.0","85.56"
+"Deberia ver las diferentes ofertas laborales en la pagina dw Choucair","El usuario despues de iniciar sesion deberia poder visualizar las diferentes vacantes en la pagina de Choucair.","FAILURE","2023-10-20T23:00:35.99-05:00[America/Bogota]","0.0","52.46"
+"Deberia poder ver un mensaje de registro exitoso en la página de Utest.","El usuario después de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.","ERROR","2023-10-21T13:15:45.117-05:00[America/Bogota]","0.0","9.38"
+"Deberia poder ver un mensaje de registro exitoso en la página de Utest.","El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.","SUCCESS","2023-10-21T18:04:02.607-05:00[America/Bogota]","0.0","24.48"

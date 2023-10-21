@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Deberia poder ver un mensaje de registro exitoso en la página de Utest." tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-21T23:04:02" hostname="DESKTOP-VQGC1V5" time="25.419">
+  <properties/>
+  <testcase name="El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso." classname="Deberia poder ver un mensaje de registro exitoso en la página de Utest." time="25.419"/>
+  <system-out><![CDATA[18:04:03.260 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+18:04:03.260 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: false, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+18:04:07.473 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+18:04:07.474 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+18:04:07.733 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\target\site\serenity\1db75250df89b95f4313147b282630ec194054f8c1842e67d39c4eadd7d18118.png
+18:04:23.645 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\target\site\serenity\1bc9a3e916eadd855f8377e5a506549281a7976636bef7c1741eb843370a54eb.png
+Welcome to the world's largest community of freelance software testers!222222222222222222222222222222222
+18:04:27.089 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\USER\OneDrive\Escritorio\Nueva carpeta\choucair-master\target\site\serenity\cf665661bc09c50211dccf5f40750a1ee3be718ee4eede1d9d0d1652195bdd83.png
+18:04:28.067 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: El usuario despues de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso.
+----------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[oct 21, 2023 6:04:02 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 117.0.5938.22 (23382a5a87b8063d9189c9a52564d2b0edc76e1c-refs/branch-heads/5938@{#447}) on port 51507
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 21, 2023 6:04:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

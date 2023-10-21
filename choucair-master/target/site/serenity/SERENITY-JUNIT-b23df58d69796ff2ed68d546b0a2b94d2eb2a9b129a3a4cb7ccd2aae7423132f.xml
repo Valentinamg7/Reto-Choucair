@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Deberia ver las diferentes ofertas laborales en la pagina dw Choucair" skipped="0" tests="1" time="52.46" timestamp="2023-10-20 11:00:35"><testcase name="El usuario despues de iniciar sesion deberia poder visualizar las diferentes vacantes en la pagina de Choucair."><failure message="Expected enabled element was not enabled&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-VQGC1V5', ip: '192.168.0.10', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_371'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VQGC1V5', ip: '192.168.0.10', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_371'
+Driver info: driver.version: unknown</failure><system-err>Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VQGC1V5', ip: '192.168.0.10', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_371'
+Driver info: driver.version: unknown&#13;
+com.choucair.actions.UtestActions.irPortalDeEmpleos(ChoucairActions.java:22)&#13;
+com.choucair.actions.UtestActions.llenarFormulario(ChoucairActions.java:38)&#13;
+com.choucair.steps_definitions.UtestSteps.cuandoIngresoLosDatosRequeridosPorElSistema(ChoucairSteps.java:30)&#13;
+✽.cuando ingreso los datos requeridos por el sistema(src/test/resources/choucair_testing/registro_usuario.feature:13)&#13;
+</system-err></testcase></testsuite>

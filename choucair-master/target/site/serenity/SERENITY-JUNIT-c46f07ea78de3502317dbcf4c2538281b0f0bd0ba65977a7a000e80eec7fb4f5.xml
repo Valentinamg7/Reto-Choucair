@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Deberia poder ver un mensaje de registro exitoso en la página de Utest." skipped="0" tests="1" time="9.38" timestamp="2023-10-21 01:15:45"><testcase name="El usuario después de diligenciar todo el formulario deberia poder ver un mensaje de registro exitoso."><error type="sun.security.util.PendingException"/><system-err>null&#13;
+com.choucair.steps_definitions.UtestSteps.queEstoyEnLaPaginaDeUtest(ChoucairSteps.java:29)&#13;
+✽.que estoy en la pagina de utest(src/test/resources/choucair_testing/registro_usuario.feature:11)&#13;
+</system-err></testcase></testsuite>
